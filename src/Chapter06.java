@@ -5,7 +5,7 @@ public class Chapter06 {
 		// TODO 自動生成されたメソッド・スタブ
 		long long1 = 100000000000L;
 		System.out.println(long1);
-		
+	  
 		double pi = 3.14d;
 		System.out.println(pi);
 		
